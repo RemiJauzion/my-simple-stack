@@ -3,7 +3,7 @@ package butrjau;
 import java.util.EmptyStackException;
 
 /**
- *
+ * DefaultStack
  */
 public class DefaultStack implements SimpleStack {
 
