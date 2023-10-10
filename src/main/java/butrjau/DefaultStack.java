@@ -3,12 +3,12 @@ package butrjau;
 import java.util.EmptyStackException;
 
 /**
- *
+ * DefaultStack
  */
 public class DefaultStack implements SimpleStack {
 
     /**
-     * Tests if this stack is empty.
+     * Tests if this stack is empty (vide).
      *
      * @return if is empty
      */
@@ -27,7 +27,7 @@ public class DefaultStack implements SimpleStack {
 
     /**
      * Pushes an item onto the top of this stack.
-     * null item is allowed.
+     * null item is allowed (autorisé).
      *
      * @param item item
      */
