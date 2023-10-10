@@ -8,7 +8,7 @@ import java.util.EmptyStackException;
 public class DefaultStack implements SimpleStack {
 
     /**
-     * Tests if this stack is empty.
+     * Tests if this stack is empty (vide).
      *
      * @return if is empty
      */
